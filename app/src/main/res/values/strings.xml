@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AudibleCodeTest</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="CLIENTID">c0dd9b86e74c488a9d91175d3c11c01f</string>
+    <string name="CLIENTSECRET">92e7cd84345c40e198511ea5aa619e16</string>
+    <string name="AUTHURL">https://api.instagram.com/oauth/authorize/</string>
+    <string name="TOKENURL">https://api.instagram.com/oauth/access_token</string>
+    <string name="APIURL">https://api.instagram.com/v1</string>
+    <string name="CALLBACK">http://localhost</string>
+    <string name="TAG_DATA">data</string>
+    <string name="TAG_IMAGES">images</string>
+    <string name="TAG_THUMBNAIL">thumbnail</string>
+    <string name="TAG_LOWRESOLUTION">low_resolution</string>
+    <string name="TAG_HIGHRESOLUTION">standard_resolution</string>
+
+</resources>
